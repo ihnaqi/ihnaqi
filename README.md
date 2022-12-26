@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my [Codeforces](https://codeforces.com/profile/ihnaqi), in order to become redcoder [Kattis](https://open.kattis.com/users/ihnaqi) and on <br>👯 I’m looking to collaborate on any opensource project.<br>🤝 I’m looking for help with advance algorithms<br>🌱 I’m currently learning CRM<br>💬 Ask me about DSA, Flutter, React, Java, Python<br>⚡ Fun fact, I hate chocolate
+🔭 I’m currently working on my [Codeforces](https://codeforces.com/profile/ihnaqi), in order to become redcoder and on [Kattis](https://open.kattis.com/users/ihnaqi) <br>👯 I’m looking to collaborate on any opensource project.<br>🤝 I’m looking for help with advance algorithms<br>🌱 I’m currently learning CRM<br>💬 Ask me about DSA, Flutter, React, Java, Python<br>⚡ Fun fact, I hate chocolate
 
 
 ## 🌐 Socials:
