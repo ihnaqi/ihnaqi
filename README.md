@@ -1,5 +1,5 @@
 # 🦉 About Me
-🔭 I’m currently obsessed with solving problems on my [Codeforces](https://codeforces.com/profile/ihnaqi), in order to become red coder and on [Kattis](https://open.kattis.com/users/ihnaqi) <br>👯 I’m looking to collaborate on any opensource project.<br>🌱 I’m currently learning CRM<br>💬 Ask me about DSA, Flutter, React, Java, C++, Python, MySQL<br>⚡ Fun fact, Chocolates are least favorable in my case
+🔭 I’m obsessed with solving problems on my [Codeforces](https://codeforces.com/profile/ihnaqi), in order to become red coder and on [Kattis](https://open.kattis.com/users/ihnaqi) <br>👯 I’m looking to collaborate on any `opensource project`.<br>🌱 I’m currently learning `CRM`<br>💬 Ask me about `DSA`, `Flutter`, `React`, `Java`, `C++`, `Python`, `MySQL`<br>⚡ Fun fact, Chocolates are least favorable in my case
 
 
 ## 📞 Contact Me
@@ -34,7 +34,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-## 🖊️ Documentation & Template Engine
+## 🖊️ Documentation & TE
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) 
 
@@ -44,7 +44,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 💹 GitHub Stats:
+## 💹 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ihnaqi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ihnaqi&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ihnaqi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
